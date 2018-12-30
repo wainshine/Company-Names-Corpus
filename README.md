@@ -8,6 +8,9 @@
 <strong>机构名语料库（Organization-Names-Corpus）</strong></br>
 110万。清洗后仍存有大量badcase。
 
+<strong>公司简称、品牌词等（Company-Shorter-Form）</strong></br>
+10万。杂质较多，比较鸡肋。
+
 ---
 
 <strong>为什么是压缩包：</strong>
