@@ -13,6 +13,7 @@
 
 清洗后仍存有大量badcase。
 
+---
 
 <strong>机构名语料库（Organization-Names-Corpus）</strong>
 
@@ -20,6 +21,7 @@
 
 清洗后仍存有大量badcase。
 
+---
 
 <strong>公司简称、品牌词等（Company-Shorter-Form）</strong>
 
