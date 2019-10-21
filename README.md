@@ -9,25 +9,31 @@
 
 <strong>公司名语料库（Company-Names-Corpus）</strong>
 
-480万。
+数据大小：480万。
 
-清洗后仍存有大量badcase。
+语料来源：多个词典汇总。
+
+数据清洗：已清洗，但仍存有大量badcase。
 
 ---
 
 <strong>机构名语料库（Organization-Names-Corpus）</strong>
 
-110万。
+数据大小：110万。
 
-清洗后仍存有大量badcase。
+语料来源：多个词典汇总。
+
+数据清洗：已清洗，但仍存有大量badcase。
 
 ---
 
 <strong>公司简称、品牌词等（Company-Shorter-Form）</strong>
 
-28万。
+数据大小：28万。
 
-清洗后仍存有大量badcase。
+语料来源：多个词典汇总。
+
+数据清洗：已清洗，但仍存有大量badcase。
 
 ---
 
