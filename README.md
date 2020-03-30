@@ -51,6 +51,12 @@
 
 ---
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/wainshine/Company-Names-Corpus.svg)](https://starchart.cc/wainshine/Company-Names-Corpus)
+
+---
+
 <strong>更新时间：</strong>
 
 删除了3000余非公司名。 -2018.10.31
